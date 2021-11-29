@@ -1,0 +1,59 @@
+EXTINF:-1,##### |SPORTS| EXYU #####
+#EXTINF:-1,|SPORTS| ARENA SPORT 1 HD
+http://line.myott.net:80/live/1234/4321/67823.ts
+#EXTINF:-1,|SPORTS| ARENA SPORT 1 SR
+http://line.myott.net:80/live/1234/4321/67822.ts
+#EXTINF:-1,|SPORTS| ARENA SPORT 1 SR HD
+http://line.myott.net:80/live/1234/4321/67821.ts
+#EXTINF:-1,|SPORTS| ARENA SPORT 2 HD
+http://line.myott.net:80/live/1234/4321/67820.ts
+#EXTINF:-1,|SPORTS| ARENA SPORT 2 SR
+http://line.myott.net:80/live/1234/4321/67819.ts
+#EXTINF:-1,|SPORTS| ARENA SPORT 2 SR HD
+http://line.myott.net:80/live/1234/4321/67818.ts
+#EXTINF:-1,|SPORTS| ARENA SPORT 3 HD
+http://line.myott.net:80/live/1234/4321/67817.ts
+#EXTINF:-1,|SPORTS| ARENA SPORT 3 SR
+http://line.myott.net:80/live/1234/4321/67816.ts
+#EXTINF:-1,|SPORTS| ARENA SPORT 3 SR HD
+http://line.myott.net:80/live/1234/4321/67815.ts
+#EXTINF:-1,|SPORTS| ARENA SPORT 4 HD
+http://line.myott.net:80/live/1234/4321/67814.ts
+#EXTINF:-1,|SPORTS| ARENA SPORT 4 SR
+http://line.myott.net:80/live/1234/4321/67813.ts
+#EXTINF:-1,|SPORTS| ARENA SPORT 4 SR HD
+http://line.myott.net:80/live/1234/4321/67812.ts
+#EXTINF:-1,|SPORTS| ARENA SPORT 5 HD
+http://line.myott.net:80/live/1234/4321/67811.ts
+#EXTINF:-1,|SPORTS| CITY TV
+http://line.myott.net:80/live/1234/4321/67795.ts
+#EXTINF:-1,|SPORTS| EUROSPORT 1 SR
+http://line.myott.net:80/live/1234/4321/67799.ts
+#EXTINF:-1,|SPORTS| EUROSPORT 2 SR
+http://line.myott.net:80/live/1234/4321/67798.ts
+#EXTINF:-1,|SPORTS| FIGHT CHANEL
+http://line.myott.net:80/live/1234/4321/67796.ts
+#EXTINF:-1,|SPORTS| MOJA TV PREMIER LIGA
+http://line.myott.net:80/live/1234/4321/67797.ts
+#EXTINF:-1,|SPORTS| SPORT KLUB 1 HD
+http://line.myott.net:80/live/1234/4321/67810.ts
+#EXTINF:-1,|SPORTS| SPORT KLUB 1 SLO
+http://line.myott.net:80/live/1234/4321/67800.ts
+#EXTINF:-1,|SPORTS| SPORT KLUB 1 SR
+http://line.myott.net:80/live/1234/4321/67809.ts
+#EXTINF:-1,|SPORTS| SPORT KLUB 2 HD
+http://line.myott.net:80/live/1234/4321/67808.ts
+#EXTINF:-1,|SPORTS| SPORT KLUB 2 SR
+http://line.myott.net:80/live/1234/4321/67807.ts
+#EXTINF:-1,|SPORTS| SPORT KLUB 3 HD
+http://line.myott.net:80/live/1234/4321/67806.ts
+#EXTINF:-1,|SPORTS| SPORT KLUB 3 SR
+http://line.myott.net:80/live/1234/4321/67805.ts
+#EXTINF:-1,|SPORTS| SPORT KLUB 4
+http://line.myott.net:80/live/1234/4321/67804.ts
+#EXTINF:-1,|SPORTS| SPORT KLUB 5
+http://line.myott.net:80/live/1234/4321/67803.ts
+#EXTINF:-1,|SPORTS| SPORT KLUB 6
+http://line.myott.net:80/live/1234/4321/67802.ts
+#EXTINF:-1,|SPORTS| SPORT KLUB HD
+http://line.myott.net:80/live/1234/4321/67801.ts
